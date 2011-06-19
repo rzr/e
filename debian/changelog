@@ -1,0 +1,5 @@
+e-editor (0.0.20110619-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Philippe Coval <rzr@gna.org>  Sun, 19 Jun 2011 23:24:36 +0200
